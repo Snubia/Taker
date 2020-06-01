@@ -1,6 +1,6 @@
 # NoteTaker
 
-_After addind the necessary dependancies, running node app.js will start the app and the user will be notify in the terminal to open it on pert 3000._
+_After adding the necessary dependancies, running node app.js will start the app and the user will be notify in the terminal to open it on pert 3000._
 
 _The user will be presented with a page and after clicking **Get Started** The user will have the page to ender their note._
 
